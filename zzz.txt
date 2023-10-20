@@ -1,3 +1,63 @@
 Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind | Full Course 2023
 
 https://www.youtube.com/watch?v=0OaDyjB9Ib8
+
+
+https://github.com/AntonioErdeljac/notion-clone-tutorial
+
+
+
+
+76,967 回視聴  2023/10/12
+Discord for any problems/errors/bugs: https://www.codewithantonio.com/discord
+Github & Live Website: https://www.codewithantonio.com/proje...
+Convex: https://www.convex.dev
+Clerk: https://dub.sh/7gFtfQb
+Edgestore: https://edgestore.dev
+Trunk: https://tinyurl.com/trunkcheck
+
+Hi all 👋 In this 8 hour tutorial you will learn how to create an end-to-end fullstack notion clone, all with proper notion-style editor, cover images, nested documents, publishing documents to public, real-time database and more.
+
+Key Features:
+
+- Real-time database  🔗 
+- Notion-style editor 📝 
+- Light and Dark mode 🌓
+- Infinite children documents 🌲
+- Trash can & soft delete 🗑️
+- Authentication 🔐 
+- File upload
+- File deletion
+- File replacement
+Icons for each document (changes in real-time) 🌠
+Expandable sidebar ➡️🔀⬅️
+Full mobile responsiveness 📱
+Publish your note to the web 🌐
+Fully collapsable sidebar ↕️
+Landing page 🛬
+Cover image of each document 🖼️
+Recover deleted files 🔄📄
+
+Timestamps
+00:00 Intro & Demo
+06:23 Environment setup
+21:23 Folders setup
+37:10 Landing page
+01:17:45 Authentication & Database
+01:42:58 Sidebar
+02:21:01 User Settings
+02:38:23 Schema & API
+02:56:11 Sidebar Item
+03:16:20 Document list
+03:40:53 Archive functionality
+03:58:12 Trash box
+04:31:37 Search functionality
+04:47:03 Settings
+04:59:41 Navbar
+05:27:14 Banner component
+05:46:11 Toolbar component (Icon, Title)
+06:15:13 Cover image (File upload)
+06:48:04 Advanced file upload (delete, replace)
+06:58:03 Editor component
+07:21:56 Preview functionality (Publish your work)
+07:43:32 Deployment & Outro
