@@ -3,6 +3,12 @@ import { v } from "convex/values";
 import { mutation, query } from "./_generated/server";
 import { Doc, Id } from "./_generated/dataModel";
 
+export const getSidebar = query({
+  args: {
+    parentDocument: v.id("documents"),
+  },
+});
+
 export const get = query({
   handler: async (ctx) => {
     const identity = await ctx.auth.getUserIdentity();
